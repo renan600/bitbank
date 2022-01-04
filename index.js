@@ -4,7 +4,7 @@ let Conta = require('./Conta.js')
 
 
 const cliente1 = new Cliente("Pedro stenfild" , 092476652903 , 107569543)
-const cliente2 = new Cliente("Estefany Aguiar " , 026475459632 , 148569523)
+const cliente2 = new Cliente("Estefany Aguiar " , 026475456345 , 148569523)
 
 const conta1 =new Conta(1001 , 965233 , cliente1)
 const conta2 =new Conta(1001 , 569854 , cliente2)
