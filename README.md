@@ -1,2 +1,6 @@
 # bitbank
- um sistema de cadastro de Clientes de um banco , e de transações bancarias 
+ 
+Esse é um projeto utilizando JavaScript e o nodeJs.
+Simulando um sistema bancario com cadastro de cliente , etransações bancarias:   Deposito , Saques e Transferencia , e podemos saber quantas contas temos criadas .
+
+utilizamos Class , Constructor , acessores Get e Set , atributo Static , Atributos Privados .
