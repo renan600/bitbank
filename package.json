@@ -1,12 +1,20 @@
 {
   "name": "bitbank",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esse é um projeto utilizando JavaScript e o nodeJs.\r Simulando um sistema bancario com cadastro de cliente , etransações bancarias:   Deposito , Saques e Transferencia , e podemos saber quantas contas temos criadas .",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renan600/bitbank.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renan600/bitbank/issues"
+  },
+  "homepage": "https://github.com/renan600/bitbank#readme"
 }

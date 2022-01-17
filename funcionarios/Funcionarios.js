@@ -1,9 +1,8 @@
-class Cliente {
-    constructor(nome, cpf, rg) {
+class Funcionarios {
+    constructor(nome, cpf, salario) {
         this._nome = nome;
         this._cpf = cpf;
-        this._rg = rg;
-        this._senha;
+        this._salario = salario;
     }
 
     autenticar(senha){
@@ -14,4 +13,4 @@ class Cliente {
     }
 }
 
-module.exports = Cliente;
+module.exports = Funcionarios;
